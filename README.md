@@ -56,4 +56,4 @@ To interact with IBM Db2 Warehouse, we've provided Java code examples that use t
 
 ## Used Dataset
 
-I add the used dataset in xlsx format in my project Respoitry
+I add the used dataset in xlsx format in my project Respoitrie
